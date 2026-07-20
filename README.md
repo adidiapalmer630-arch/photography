@@ -4,7 +4,12 @@
 Kimutai
 
 ## Description
-A visually appealing photography landing page that highlights favorite photos, a short biography, a design concept section, and a contact form.
+A visually appealing photography landing page that highlights favorite photos, a short biography, a design concept section, and a contact form. https://github.com/adidiapalmer630-arch/photography
+
+##Technologies used
+html
+css
+github
 
 ## Project Setup
 1. Open the project folder in your browser.
