@@ -18,9 +18,8 @@ A visually appealing photography landing page that highlights favorite photos, a
 
 ## website preview
 here is an example of a photo from the website
-src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
-              alt="A winding path through golden trees"
-            />
+![A winding path through golden trees](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80)
+
   
 ## Live Site
 The site is ready to be published on GitHub Pages by enabling Pages for the repository and using the main or gh-pages branch.
