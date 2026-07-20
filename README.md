@@ -19,3 +19,4 @@ This project is for educational purposes and is open for personal use.
 - Minor polish update 2
 - Minor polish update 3
 - Minor polish update 4
+- Minor polish update 5
