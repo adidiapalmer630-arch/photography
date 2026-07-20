@@ -16,3 +16,4 @@ The site is ready to be published on GitHub Pages by enabling Pages for the repo
 ## License
 This project is for educational purposes and is open for personal use.
 MIT licence
+<!-- feat: minor update -->
