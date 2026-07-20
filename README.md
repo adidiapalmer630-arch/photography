@@ -17,3 +17,4 @@ The site is ready to be published on GitHub Pages by enabling Pages for the repo
 This project is for educational purposes and is open for personal use.
 - Minor polish update 1
 - Minor polish update 2
+- Minor polish update 3
