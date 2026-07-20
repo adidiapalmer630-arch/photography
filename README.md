@@ -1,0 +1,17 @@
+# Golden Hour Gallery
+
+## Author
+Kimutai
+
+## Description
+A visually appealing photography landing page that highlights favorite photos, a short biography, a design concept section, and a contact form.
+
+## Project Setup
+1. Open the project folder in your browser.
+2. Launch the site by opening [index.html](index.html) or serving the folder with a simple web server.
+
+## Live Site
+The site is ready to be published on GitHub Pages by enabling Pages for the repository and using the main or gh-pages branch.
+
+## License
+This project is for educational purposes and is open for personal use.
