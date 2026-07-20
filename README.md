@@ -24,7 +24,9 @@ here is an example of a photo from the website
 
   
 ## Live Site
-The site is ready to be published on GitHub Pages by enabling Pages for the repository and using the main or gh-pages branch.
+The site is ready to be published on GitHub Pages by enabling Pages for the repository and using the main or gh-pages branch. 
+https://github.com/adidiapalmer630-arch/photography
+
 
 ## License
 This project is for educational purposes and is open for personal use.
