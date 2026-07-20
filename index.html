@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Golden Hour Gallery</title>
+    <meta
+      name="description"
+      content="A curated photography portfolio celebrating light, texture, and memorable journeys."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="top-nav">
+        <a href="#gallery">Gallery</a>
+        <a href="#about">About</a>
+        <a href="#design">Design</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="hero-content">
+        <p class="eyebrow">Photography • Storytelling • Light</p>
+        <h1>Golden Hour Gallery</h1>
+        <p class="intro">
+          Photography is how I preserve fleeting moments and the quiet beauty
+          that often slips by unnoticed. This page gathers some of my favorite
+          frames, each one chosen for the feeling it carries.
+        </p>
+        <a class="btn" href="#gallery">View Favorite Photos</a>
+      </div>
+    </header>
+
+    <main>
+      <section id="gallery" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Curated collection</p>
+          <h2>Favorite Photos</h2>
+          <p>
+            These images capture the warmth of dawn, the stillness of evening,
+            and the magic of everyday scenes.
+          </p>
+        </div>
+
+        <ul class="photo-list">
+          <li class="photo-card">
+            <img
+              src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
+              alt="A winding path through golden trees"
+            />
+            <div class="card-body">
+              <h3>Golden Path</h3>
+              <p>Morning light turning a forest trail into a dream.</p>
+            </div>
+          </li>
+          <li class="photo-card">
+            <img
+              src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=800&q=80"
+              alt="A calm shore at sunset"
+            />
+            <div class="card-body">
+              <h3>Quiet Shore</h3>
+              <p>A peaceful shoreline where the sky melts into orange.</p>
+            </div>
+          </li>
+          <li class="photo-card">
+            <img
+              src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80"
+              alt="Snowy mountain range under a blue sky"
+            />
+            <div class="card-body">
+              <h3>Winter Silence</h3>
+              <p>Stillness carved into the mountains and the air.</p>
+            </div>
+          </li>
+          <li class="photo-card">
+            <img
+              src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=800&q=80"
+              alt="A city street glowing at dusk"
+            />
+            <div class="card-body">
+              <h3>City Glow</h3>
+              <p>Street lights and warm windows at the end of the day.</p>
+            </div>
+          </li>
+        </ul>
+      </section>
+
+      <section id="about" class="section about-section">
+        <div class="about-text">
+          <p class="eyebrow">About the gallery</p>
+          <h2>Biography</h2>
+          <p>
+            <strong>Golden Hour Gallery</strong> is a personal collection built
+            around the feeling of memory. Each photo is a small window into a
+            moment that mattered, whether it was a quiet walk, a dramatic sky,
+            or a simple scene that felt extraordinary in the right light.
+          </p>
+          <p>
+            I am inspired by <em>color, texture, and the story hidden inside a frame</em>.
+            This site reflects my love for photography and my desire to share
+            those moments with others.
+          </p>
+        </div>
+        <div class="about-image-card">
+          <img
+            src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+            alt="Photographer smiling beside a camera"
+          />
+        </div>
+      </section>
+
+      <section id="design" class="section design-section">
+        <div class="section-heading">
+          <p class="eyebrow">Design concept</p>
+          <h2>Attached Design Notes</h2>
+          <p>
+            The layout was planned as a calm, elegant experience with warm
+            tones, spacious sections, and clear visual hierarchy.
+          </p>
+        </div>
+
+        <div class="design-board">
+          <div class="design-card">
+            <h3>Palette</h3>
+            <div class="swatches">
+              <span class="swatch gold"></span>
+              <span class="swatch sand"></span>
+              <span class="swatch charcoal"></span>
+            </div>
+          </div>
+          <div class="design-card">
+            <h3>Wireframe</h3>
+            <div class="wireframe">
+              <div class="wireframe-header"></div>
+              <div class="wireframe-body">
+                <div class="wireframe-sidebar"></div>
+                <div class="wireframe-main"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact-section">
+        <div class="section-heading">
+          <p class="eyebrow">Stay in touch</p>
+          <h2>Contact</h2>
+          <p>Share your favorite photo or ask about a collaboration.</p>
+        </div>
+
+        <form class="contact-form">
+          <label>
+            Name
+            <input type="text" name="name" placeholder="Your name" />
+          </label>
+          <label>
+            Email
+            <input type="email" name="email" placeholder="you@example.com" />
+          </label>
+          <label>
+            Message
+            <textarea name="message" rows="5" placeholder="Tell me about your favorite moment..."></textarea>
+          </label>
+          <button type="submit">Send Message</button>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
